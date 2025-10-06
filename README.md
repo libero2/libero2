@@ -1,12 +1,15 @@
-### Hi, my name is Dana! 
+### Hi im Dana (❛ u ❛)
 
-I'm currently a senior at Rutgers studying linguistic theory as well as computer science. I like working with Jupyter, R, SQL, and Pandas for my projects. 
+I like working with Jupyter, SQL, Pandas, and pyTorch in my personal projects. 
 
-### What am I all about? 
-I'm highly interested in exploring statistics and machine learning, and I hope to study and work in both disciplines.
-On the side, I have a music project called "Libero". In my music, I typically include elements created in livecoding tools like TidalCycles and Max\MSP. Talk to me about digital signal processing! 
+### What am I all about?
+ 
+At the moment I'm a data analyst. I'm highly interested in exploring computational linguistics and data science. I hope to study CL some day 😃 
 
-Thanks for reading! 
+On the side, I have a music project called "Libero". In my music, I typically include elements created in livecoding tools like TidalCycles and Max\MSP. 
+
+Talk to me about digital signal processing! 
+
 
 <!---
 libero2/libero2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
